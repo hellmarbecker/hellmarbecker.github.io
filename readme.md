@@ -24,6 +24,7 @@
 
 - Big Data Stack - Hadoop, Hive, Spark
 - Event Streaming - NiFi, Kafka
+- Security and Governance, particulary with open source products
 - Digital Analytics, OmniChannel, Customer 360
 
 ## Presentation experience
