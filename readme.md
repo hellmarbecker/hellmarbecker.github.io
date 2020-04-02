@@ -2,11 +2,12 @@
 
 ## About me
 
-- Sales Engineer with 20+ years experience in the tech industry
-- Meetup organizer
+[Twitter](https://twitter.com/Hellmar_Becker) - [LinkedIn](https://www.linkedin.com/in/hellmarbecker/) - [XING](https://www.xing.com/profile/Hellmar_Becker/cv) - [GitHub](https://github.com/hellmarbecker) - [StackOverflow](https://stackoverflow.com/users/5334131/hellmar-becker)
+
+- Sales Engineer with 20+ years experience in the software industry
+- Meetup Organizer
 - Community Builder
-- Speaker
-- [Twitter](https://twitter.com/Hellmar_Becker), [LinkedIn](https://www.linkedin.com/in/hellmarbecker/), [XING](https://www.xing.com/profile/Hellmar_Becker/cv)
+- Conference Speaker
 
 ## Sales experience
 
