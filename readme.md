@@ -6,6 +6,7 @@
 - Meetup organizer
 - Community Builder
 - Speaker
+- [Twitter](https://twitter.com/Hellmar_Becker), [LinkedIn](https://www.linkedin.com/in/hellmarbecker/), [XING](https://www.xing.com/profile/Hellmar_Becker/cv)
 
 ## Sales experience
 
@@ -29,4 +30,5 @@
 - Apache Big Data 2015 ([slides](https://events17.linuxfoundation.org/sites/events/files/slides/Securing%20Hadoop%20in%20an%20enterprise%20context.pdf))
 - Strata EU 2016 and 2017
 - Hadoop Summit 2015 ([slides](https://www.slideshare.net/Hadoop_Summit/destroying-data-silos)) and 2016 ([video](https://www.youtube.com/watch?v=qBsGWhuVyuU))
+- Continuous Lifecycle London 2016 ([slides](https://www.slideshare.net/hellmar/automate-hadoop-cluster-deployment-in-a-banking-ecosystem))
 - OSAD 2019, Munich ([video](https://www.youtube.com/watch?v=bhyGBg70IK4))
