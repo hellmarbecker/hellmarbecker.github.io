@@ -27,6 +27,6 @@
 ## Presentation experience
 
 - Apache Big Data 2015 ([slides](https://events17.linuxfoundation.org/sites/events/files/slides/Securing%20Hadoop%20in%20an%20enterprise%20context.pdf))
-- Strata EU 2016
-- Several talks at Hadoop Summit. [My talk at Hadoop Summit 2016](https://www.youtube.com/watch?v=qBsGWhuVyuU)
+- Strata EU 2016 and 2017
+- Hadoop Summit 2015 and 2016. [My talk at Hadoop Summit 2016](https://www.youtube.com/watch?v=qBsGWhuVyuU)
 - [OSAD 2019, Munich](https://www.youtube.com/watch?v=bhyGBg70IK4)
