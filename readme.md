@@ -22,7 +22,7 @@
 
 ## Technology experience
 
-- Big Data Stack - Hadoop, Hive, Spark
+- Big Data Stack - Hadoop, Hive, HBase, Spark
 - Event Streaming - NiFi, Kafka
 - Security and Governance, particulary with open source products
 - Digital Analytics, OmniChannel, Customer 360
