@@ -27,6 +27,7 @@
 - Security and Governance, particulary with open source products
 - Digital Analytics, OmniChannel, Customer 360
 - Data Warehousing - Data modeling, analytics, reporting
+- Database Tuning - Oracle, Netezza
 
 ## Presentation experience
 
